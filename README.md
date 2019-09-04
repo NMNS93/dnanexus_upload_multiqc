@@ -1,4 +1,4 @@
-# DNAnexus MultiQC report 
+# MultiQC Report Uploader 
 
 ![Application logo](_assets/download.png)
 
