@@ -1,4 +1,4 @@
-# MultiQC Report Uploader 
+# Upload MultiQC 
 
 ![Application logo](_assets/download.png)
 
